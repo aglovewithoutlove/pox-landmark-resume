@@ -45,7 +45,7 @@
 ||maoercdn.com^
 ||mincdn.com^
 ||yo9.com^
-||uposhzmirrorakam.akamaized.net^
+|uposhzmirrorakam.akamaized.net^
 
 ! C
 ! ChatGPT
@@ -62,10 +62,26 @@
 ! DeepSeek
 ||deepseek.com^
 
+! Douban
+||douban.com^
+||douban.fm^
+||doubanio.com^
+
 ! F
 ! G
 ! H
+
 ! I
+! iQIYI
+||iq.com^
+||iqiyi.com^
+||iqiyipic.com^
+||pps.tv^
+||ppsimg.com^
+||qiyi.com^
+||qiyipic.com^
+||qy.net^
+
 ! J
 ! K
 ! L
@@ -82,7 +98,11 @@
 ||st.mycdn.me^
 
 ! P
+
 ! Q
+! QQ
+||qq.com^
+
 ! R
 
 ! S
@@ -91,6 +111,27 @@
 ||shein.co.uk^
 ||shein.se^
 ||sheinsz.ltwebstatic.com^
+
+! Shopee
+||shopee.cl^
+||shopee.co.id^
+||shopee.co.th^
+||shopee.com^
+||shopee.com.br^
+||shopee.com.co^
+||shopee.com.mx^
+||shopee.com.my^
+||shopee.es^
+||shopee.fr^
+||shopee.id^
+||shopee.in^
+||shopee.io^
+||shopee.ph^
+||shopee.sg^
+||shopee.tw^
+||shopee.vn^
+||shopeemobile.com^
+||shp.ee^
 
 ! T
 ! Temu
@@ -156,6 +197,14 @@
 ||vkuservideo.net^
 
 ! W
+! WeChat
+||wechat.com^
+||weixinbridge.com^
+
+! Weibo
+||wbimg.com^
+||weibo.com^
+||weibocdn.com^
 
 ! X
 ! Xiaohongshu
@@ -166,6 +215,8 @@
 ||xiaohongshu.com.my^
 
 ! Y
+! YY
+||yy.com^
 
 ! Z
 ! Zhihu
