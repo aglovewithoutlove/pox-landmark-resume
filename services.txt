@@ -83,7 +83,11 @@
 ||qy.net^
 
 ! J
+
 ! K
+! Kik
+||kik.com^
+
 ! L
 
 ! M
@@ -175,6 +179,9 @@
 ! U
 
 ! V
+! Viber
+||viber.com^
+
 ! VK.com
 ||mvk.com^
 ||userapi.com^
@@ -200,6 +207,11 @@
 ! WeChat
 ||wechat.com^
 ||weixinbridge.com^
+
+! Wizz
+||wizzapp.com^
+||getwizz.io^
+||wizz.chat^
 
 ! Weibo
 ||wbimg.com^
