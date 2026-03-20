@@ -4,7 +4,7 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-adblo
 - Syntax: AdBlock
 - Number of latin TLDs: 285 - punycode TLDs: 151
 ```
-diff mine hagezi
+diff -u mine hagezi
 ```
 Popular TLDs:
 ```
