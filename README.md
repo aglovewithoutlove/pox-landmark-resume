@@ -1,8 +1,8 @@
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-adblock-aggressive.txt
-- Last modified: 17 Mar 2026 23:01 UTC
-- Version: 2026.0317.2301.55
+- Last modified: 28 Mar 2026 20:46 UTC
+- Version: 2026.0328.2046.13
 - Syntax: AdBlock
-- Number of latin TLDs: 285 - punycode TLDs: 151
+- Number of latin TLDs: 286 - punycode TLDs: 151
 ```
 diff -u mine hagezi
 ```
