@@ -16,7 +16,7 @@
 ||*.bid^
 ||*.bike^
 ||*.bingo^
-!||*.biz^
+! removed popular TLD
 ||*.black^
 ||*.blue^
 ||*.boats^
@@ -33,7 +33,7 @@
 ||*.casa^
 ||*.cash^
 ||*.casino^
-!||*.cc^
+! removed popular TLD
 ||*.center^
 ||*.ceo^
 ||*.cf^
@@ -49,6 +49,7 @@
 ||*.clothing^
 ||*.club^
 ||*.cm^
+||*.co.com^
 ||*.college^
 ||*.computer^
 ||*.consulting^
@@ -71,7 +72,7 @@
 ||*.discount^
 ||*.diy^
 ||*.dog^
-!||*.download^
+! removed popular TLD
 ||*.dpdns.org^
 ||*.eco^
 ||*.edu.eu^
@@ -181,7 +182,7 @@
 ||*.okinawa^
 ||*.ong^
 ||*.onl^
-!||*.online^
+! removed popular TLD
 ||*.ooo^
 ||*.partners^
 ||*.parts^
@@ -228,17 +229,17 @@
 ||*.science^
 ||*.sew^
 ||*.sexy^
-!||*.shop^
+! removed popular TLD
 ||*.shopping^
 ||*.show^
-!||*.site^
+! removed popular TLD
 ||*.skin^
 ||*.solar^
 ||*.soy^
-!||*.space^
+! removed popular TLD
 ||*.sport^
 ||*.srl^
-!||*.store^
+! removed popular TLD
 ||*.studio^
 ||*.style^
 ||*.su^
@@ -262,7 +263,9 @@
 ||*.trading^
 ||*.tube^
 ||*.uno^
+||*.us.com^
 ||*.us.kg^
+||*.us.org^
 ||*.vacations^
 ||*.vegas^
 ||*.ventures^
@@ -276,7 +279,7 @@
 ||*.webcam^
 ||*.website^
 ||*.wedding^
-!||*.wiki^
+! removed popular TLD
 ||*.win^
 ||*.wine^
 ||*.work^
